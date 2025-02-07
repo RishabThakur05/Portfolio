@@ -19,7 +19,7 @@ function Hero() {
             I am a passionate web developer currently pursuing a B.Tech in Computer Science at Lovely Professional University, Phagwara. I am a motivated and results-driven Computer Science and Engineering graduate seeking a challenging position as a Web Developer within a large organization. I offer a strong foundation in Java, C++, Data Structures and Algorithms, React.js, Node.js, PHP, MongoDB, data analysis, and project management. I have a proven ability to drive efficiency, deliver successful outcomes, and collaborate within cross-functional teams.
             </p>
             <a
-              href="/resume.pdf"
+              href="/GeneralCv Rishab.pdf"
               download
               className="inline-flex items-center px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors duration-200"
             >
