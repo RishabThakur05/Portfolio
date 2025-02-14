@@ -7,6 +7,13 @@ function Projects() {
   // Predefined list of projects to display
   const selectedProjects = [
     {
+      name: 'Search Engine in Question Answering System',
+      description: 'Developed a search engine in Question Answering System',
+      technologies: 'React.js, Node.js, Express.js, MongoDB, GRPC',
+      githubLink: 'https://github.com/RishabThakur05/SearchFunctionalityFinal',
+    },
+
+    {
       name: 'Tic Tac Toe Game',
       description: 'Developed game using DSA and Python',
       technologies: 'Python, DSA',
